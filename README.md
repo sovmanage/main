@@ -1,6 +1,6 @@
 # Sovrano Home
 
-1) #SVR-GIVE AWAY V 1.0.0
+#SVR-GIVE AWAY V 1.0.0
 
 These Terms of Service SVR-GIVE AWAY to read as well.
 We are giving away SVR to our most active community members who will participate in this program.
